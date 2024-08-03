@@ -1,8 +1,5 @@
 
 
-Embrace the learning process and take the first step to start living your life.
-
-Living decades of a boring life is worse than experiencing one day of adventure. Ignore your excuses and just start doing.
 
 
 I started with C++ as my first programming language in university, even though I didn’t want to.
