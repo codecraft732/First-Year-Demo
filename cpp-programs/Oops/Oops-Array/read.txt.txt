@@ -1,0 +1,3 @@
+
+ifstream create file its work in vs
+hi this is alishba
